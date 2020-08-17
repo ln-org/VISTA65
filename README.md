@@ -1,5 +1,6 @@
 # VISTA65
-VISTA65 Dual-Mode Keyboard
+### Overview
+VISTA65 PCB is designed for VISTA65 Dual-Mode Keyboard, supported by Leon & Nathan from LNE Lab.
 
 ### Keyboard Features
 * Support BLE & USB Dual Mode
@@ -7,7 +8,3 @@ VISTA65 Dual-Mode Keyboard
 * Support Caps Lock Light
 * Support VIA
 * Support LNE Hub
-
-Designed By Leon & Nathan
-
-From LNE Lab
