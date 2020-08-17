@@ -1,6 +1,7 @@
 # VISTA65
 VISTA65 Dual-Mode Keyboard
 
+### Keyboard Features
 * Support BLE & USB Dual Mode
 * Support Backlight
 * Support Caps Lock Light
